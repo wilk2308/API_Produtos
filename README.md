@@ -23,8 +23,8 @@ Esta API oferece um serviço CRUD para manipulação de produtos, armazenados em
 
 1. Clone o repositório:  
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/wilk2308/API_Produtos.git
+cd API_Produtos
 ```
 
 2. Configure sua string de conexão no `appsettings.json`:
@@ -71,6 +71,3 @@ public class Produto
 
 Contribuições são bem-vindas! Abra issues ou envie pull requests para melhorias.
 
-## Licença
-
-Este projeto está licenciado sob a MIT License.
