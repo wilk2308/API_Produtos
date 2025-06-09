@@ -1,0 +1,46 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Rider files
+.idea/
+
+# Logs
+*.log
+
+# Configurations
+appsettings.*.json
+
+# User-specific files
+*.userosscache
+*.sln.docstates
+
+# Dotnet publish folder
+publish/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# EF Core Migrations
+Migrations/
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Others
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Temporary files
+*.tmp
+*.temp
